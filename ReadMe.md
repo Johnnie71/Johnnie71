@@ -1,4 +1,4 @@
-### Ayyy!! Whats up!? My name is Johnnie 🤗
+## Ayyy!! Whats up!? My name is Johnnie 🤗
 
 I'm a Software Engineering graduate from Flatiron Academy in NYC 🌇!
 Looking to inspire/be inspired by other creatives alike!
