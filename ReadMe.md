@@ -15,4 +15,4 @@ Looking to inspire/be inspired by other creatives alike!
 [![Twitter Follow](https://img.shields.io/twitter/follow/johnnie71?label=Follow%20Me&logoColor=orange&style=social)](https://twitter.com/intent/user?screen_name=Johnnieg71)
 
 ## GitHub
-![Johnnie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnie71&count_private=true&show_icons=true&theme=blue-green)
+![Johnnie's GitHub Stats](https://github-readme-stats-d1ikix53f.vercel.app/api?username=Johnnie71&count_private=true&show_icons=true&theme=blue-green)
