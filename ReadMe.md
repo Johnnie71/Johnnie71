@@ -1,7 +1,7 @@
-## Ayyy!! Whats up!? My name is Johnnie 🤗
+## Hey!! My name is Johnnie 🤗
 
 I'm a Software Engineering graduate from Flatiron Academy in NYC 🌇!
-Looking to inspire/be inspired by other creatives alike!
+Looking to inspire/be inspired by other creatives alike! Currently in the proccess of learning React Native.
 
 ## Some of my favorite things are...
 - 🕌 Architectural Design
@@ -9,7 +9,7 @@ Looking to inspire/be inspired by other creatives alike!
 - 🐢 Animals
 - 🧗🏻 Hiking
 - 🕺🏻 Dance
-- 🤓 Learning new things daily...seriously 🙃
+- 🤓 Coding 🙃
 
 ## Find me online 💻
 [![Twitter Follow](https://img.shields.io/twitter/follow/johnnie71?label=Follow%20Me&logoColor=orange&style=social)](https://twitter.com/intent/user?screen_name=Johnnieg71)
