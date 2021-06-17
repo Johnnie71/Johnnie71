@@ -2,6 +2,7 @@
 
 I'm a Software Engineering graduate from Flatiron Academy in NYC 🌇!
 Looking to inspire/be inspired by other creatives alike! Currently in the proccess of learning React Native.
+Application Developer Apprentice @ IBM
 
 ## Some of my favorite things are...
 - 🕌 Architectural Design
