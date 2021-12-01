@@ -1,8 +1,8 @@
 ## Hey!! My name is Johnnie 🤗
 
 I'm a Software Engineering graduate from Flatiron Academy in NYC 🌇!
-Looking to inspire/be inspired by other creatives alike! Currently in the proccess of learning React Native.
-Application Developer Apprentice @ IBM
+Love being inspired by other creatives alike! Love learning new technologies and areas of expertise, because the learning never stops.
+Currently an Application Developer Apprentice @ IBM.
 
 ## Some of my favorite things are...
 - 🕌 Architectural Design
