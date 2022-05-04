@@ -1,7 +1,7 @@
 ## Hey!! My name is Johnnie 🤗
 
-I'm a Software Engineer with a background in Architectural design and hospitality in NYC 🌇!
-Inspired everyday to add to my creative skillset! Love learning new technologies as well as how everything works as a whole together (DevOps, Enterprise Architetcure, etc).
+I'm a Software Engineer with a background in Architectural design and hospitality in NYC 🌇
+Inspired everyday to add to my creative skillset! Love learning new technologies as well as how everything works as a whole together (DevOps, Enterprise Architecture, etc).
 Currently an Application Developer Apprentice @ IBM.
 
 ## Some of my favorite things are...
