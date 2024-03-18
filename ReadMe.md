@@ -1,8 +1,6 @@
 ## Hey!! My name is Johnnie 🤗
 
-I'm a Software Engineer with a background in Architectural design and hospitality in NYC 🌇
-Inspired everyday to add to my creative skillset! Love learning new technologies as well creating interactive user experiences.
-Currently a Software Developer at FIG.
+I'm a Software Engineer with a background in architectural design and hospitality in the vibrant backdrop of NYC 🌇. Inspired daily to expand my creative skillset, I thrive on learning new technologies and crafting interactive user experiences. Currently, I'm contributing as a Full Stack Software Developer at FIG.
 
 ## Some of my favorite things are...
 - 🕌 Architectural Design
