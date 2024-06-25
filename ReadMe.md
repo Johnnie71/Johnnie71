@@ -10,7 +10,7 @@ I'm a Full Stack Software Engineer with a background in architectural design and
   - **Frontend:** JavaScript (React, Redux, Next.js, TypeScript), HTML/CSS, Tailwind CSS
   - **Backend:** Python (FastAPI, Flask), Go (Basic), Ruby (Basic), SQLAlchemy
   - **Databases:** PostgreSQL, Redis, MySQL
-  - **Tools & Platforms:** Docker, GIT, GitHub, Jira, Linux, AWS, Google Cloud, Kubernetes
+  - **Tools & Platforms:** Docker, GIT, GitHub, Jira, Linux, AWS, Google Cloud, Kubernetes, Figma
 
 ## 🌱 What I Love
 
