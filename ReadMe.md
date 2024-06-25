@@ -21,6 +21,9 @@ I'm a Full Stack Software Engineer with a background in architectural design and
 - 🕺🏻 **Dance:** A fun way to stay active and express creativity.
 - 🤓 **Programming:** Passionate about coding, problem-solving, and continuous learning.
 
+## 🧑‍💻 GitHub 
+![Johnnie's GitHub Stats](https://github-readme-stats-d1ikix53f.vercel.app/api?username=Johnnie71&count_private=true&show_icons=true&theme=blue-green)
+
 ## 📫 Let's Connect
 
 - **Email:** [johnnie.agonz71@gmail.com](mailto:johnnie.agonz71@gmail.com)
