@@ -2,16 +2,6 @@
 
 I'm a Full Stack Software Engineer with a background in architectural design and hospitality, currently thriving in the vibrant backdrop of NYC 🌇. I am passionate about expanding my creative skillset and love to learn new technologies and craft interactive user experiences. I love to design and develop innovative solutions to enhance productivity and user experience.
 
-## 🌟 About Me
-
-- **Location:** NJ / NYC
-- **Education:** Technical Diploma from Flatiron School, Associate of Science in Architecture/Engineering from Union County College
-- **Technologies:** 
-  - **Frontend:** JavaScript (React, Redux, Next.js, TypeScript), HTML/CSS, Tailwind CSS
-  - **Backend:** Python (FastAPI, Flask), Go (Basic), Ruby (Basic), SQLAlchemy
-  - **Databases:** PostgreSQL, Redis, MySQL
-  - **Tools & Platforms:** Docker, GIT, GitHub, Jira, Linux, AWS, Google Cloud, Kubernetes, Figma
-
 ## 🌱 What I Love
 
 - 🕌 **Architectural Design:** My roots in architecture have instilled a deep appreciation for design and structure.
@@ -23,6 +13,8 @@ I'm a Full Stack Software Engineer with a background in architectural design and
 
 ## 🧑‍💻 GitHub 
 ![Johnnie's GitHub Stats](https://github-readme-stats-d1ikix53f.vercel.app/api?username=Johnnie71&count_private=true&show_icons=true&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnie71&layout=compact)
 
 ## 📫 Let's Connect
 
