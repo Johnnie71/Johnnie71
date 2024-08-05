@@ -20,7 +20,6 @@ I'm a Full Stack Software Engineer with a background in architectural design and
 
 - **Email:** [johnnie.agonz71@gmail.com](mailto:johnnie.agonz71@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/johnnie-gonzalez71/)
-- **GitHub:** [GitHub Profile](https://github.com/Johnnie71)
 - **Portfolio:** [Portfolio Website](https://www.johnniedev.com/)
 
 ---
